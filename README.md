@@ -28,16 +28,16 @@
 
 2. **Install dependencies
 
-
-yarn install
-# or
-npm install
+   ```bash
+     yarn install
+      or
+     npm install
 
 3. **Start the development server
-
-yarn start
-# or
-npm start
+    ```bash
+    yarn start
+    or
+    npm start
 
 
 4. **Run on your device
