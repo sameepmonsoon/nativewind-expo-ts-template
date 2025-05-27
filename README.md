@@ -40,7 +40,7 @@
     npm start
 
 
-4. **Run on your device
+4. **Run on your device**
    ```bash
    Scan the QR code with the Expo Go app (Android/iOS)
  
