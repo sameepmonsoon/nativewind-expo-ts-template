@@ -26,14 +26,14 @@
    git clone https://github.com/sameepmonsoon/nativewind-expo-ts-template.git
    cd nativewind-expo-ts-template
 
-2. **Install dependencies
+2. **Install dependencies**
 
    ```bash
      yarn install
       or
      npm install
 
-3. **Start the development server
+3. **Start the development server**
     ```bash
     yarn start
     or
@@ -41,10 +41,10 @@
 
 
 4. **Run on your device
-
-Scan the QR code with the Expo Go app (Android/iOS)
-
-Or run on an emulator (a for Android, i for iOS)
+   ```bash
+   Scan the QR code with the Expo Go app (Android/iOS)
+ 
+   Or run on an emulator (a for Android, i for iOS)
 
 Customizing NativeWind
 Edit tailwind.config.js to customize your design system:
