@@ -1,1 +1,0 @@
-# nativewind-expo-ts-template
